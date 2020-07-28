@@ -189,7 +189,7 @@ if __name__ == '__main__':
     # quick_sort(arr,0,len(arr)-1)
     # print(merge_sort(arr))
     # print(heap_sort(arr))
-    print(choose_sort(arr))
+    # print(choose_sort(arr))
 
 
 
